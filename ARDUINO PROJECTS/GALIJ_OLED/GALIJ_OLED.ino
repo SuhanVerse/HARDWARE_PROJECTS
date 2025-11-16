@@ -52,7 +52,7 @@ unsigned long lastFrameTime = 0;
 
 int textIndex = 0;
 const char* messages[] = {
-  "Galij Mama Randi",
+  "Galij Mama",
   "Negron James",
   "Asim Scientist",
   "Dhami Ji"
