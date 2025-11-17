@@ -28,6 +28,7 @@ Each project is designed to be:
 
 ## 📁 Repository Structure
 
+```bash
 HARDWARE_PROJECTS/ 
 ├── ARDUINO PROJECTS/ 
 │ ├── GALIJ_OLED/ # OLED display with custom text 
@@ -37,7 +38,7 @@ HARDWARE_PROJECTS/
 │ └── ESP32_OLED_TOUCH/ # ESP32 + OLED + touch animation project 
 ├── LICENSE 
 └── README.md
-
+```
 
 ---
 
@@ -92,6 +93,6 @@ If you’d like to add your own hardware project or improve documentation, feel 
 ## ✍️ Author
 
 **SuhanVerse**  
-Hardware tinkerer, reverse-engineer, and open-source enthusiast  
+Hardware tinkerer, and open-source enthusiast  
 📍 Based in Nepal | 🧠 Focused on reproducible workflows and elegant integration  
 🌐 GitHub: [github.com/SuhanVerse](https://github.com/SuhanVerse)
