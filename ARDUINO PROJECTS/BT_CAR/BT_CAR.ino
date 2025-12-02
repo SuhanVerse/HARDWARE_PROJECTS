@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial mySerial(2, 3); // RX, TX (HC-05)
+SoftwareSerial mySerial(2, 3); // Tx, Rx (HC-05)
 
 #define enA 10  // L298N Enable A (Right)
 #define in1 9   // Right motor IN1
