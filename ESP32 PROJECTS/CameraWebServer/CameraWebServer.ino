@@ -10,8 +10,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "Blackclover";
-const char *password = "turn0909";
+const char *ssid = "Your_ssid_name";
+const char *password = "Your_ssid_password";
 
 void startCameraServer();  // You can define this later
 void setupLedFlash(int pin);
@@ -101,3 +101,4 @@ void setup() {
 void loop() {
   delay(10000);  // Idle loop
 }
+
